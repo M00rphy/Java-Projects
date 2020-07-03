@@ -1,0 +1,52 @@
+Descripción de los archivos de configuración editables de ContaEs.
+
+Nota: Los dos primeros archivos que no se describen aquí, aunque
+son de texto plano no es recomendable editarlos, ya que de ello
+se encarga el programa.
+
+userprefs.ini:
+	Archivo donde se almacenan configuraciones del programa,
+como la posición de la ventana al salir, última empresa utilizada,
+paneles abiertos al salir, etc.
+
+pgc08.txt:
+	Archivo que incluye el Plan General de Contabilidad.
+Lo utiliza el programa en la instalación para crear la tabla
+en la base de datos con el Plan General Contable.
+La primera línea del archivo es el número total de cuentas
+que incluye el plan, cada cuenta contará con una línea en el
+archivo dividida de la siguiente manea:
+Número de cuenta ; Nombre de la cuenta; Código de agrupación
+					en el Balance o en la
+					Cuenta de Pérdidas y Ganancias.
+
+
+ventasTPV.ini:
+	Este archivo se utiliza en el pago de facturas emitidas,
+de tal forma que a través de él podemos indicar al programa una
+comisión sobre la venta y una cuenta de gasto asociada para cobros
+por una determinada cuenta de caja o banco.
+	Cada línea se estructura de la siguiente manera:
+Cuenta de caja o banco ; Cuenta de gasto para la comisión ; Porcentaje de
+la comisión sobre la venta ; Cuenta de clientes asociada (*)
+	Introduzca la línea:
+Cuenta caja/banco;-1;0;Cuenta cliente
+	Para cobros que no llevan comisión y que no desee que el
+programa le pregunte si asignarsela o no.
+
+	(*) La cuenta de clientes asociada se utiliza para que el programa
+utilice los datos de la línea si la operación se produce sólo a través
+de una determinada cuenta de cliente.
+	Por ejemplo, supongamos que tenemos asignada una comisión a los
+cobros por la cuenta bancaria 57200000, y que tenemos una cuenta de
+clientes de pago al contado y otra de clientes de pago con tarjeta.
+Podemos asignar una línea de comisión para todos los clientes que paguen
+con tarjeta y el cobro sea a través de 57200000, pero esta comisión no se
+aplicaría si se tratase de clientes de contado que, por ejemplo, hubieran
+pagado realizando un ingreso en dicha cuenta bancaria.
+	Se puede utilizar un asterisco (*) para que afecte a todas las
+cuentas de clientes
+Ejemplo:
+	57200002;70690000;0.95;43000002
+Explicación: Cuando el cliente asociado a la cuenta 43000002 pague una factura a través de la cuenta de banco 57200002, a ese cobro se le asignará una comisión del 0.95% que recaerá como gasto en la cuenta 70690000.
+

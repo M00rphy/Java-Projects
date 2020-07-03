@@ -1,0 +1,785 @@
+784
+1;FINANCIACIÓN BÁSICA;
+10;CAPITAL;PA1I
+100;Capital social;PA1I1
+101;Fondo social;PA1I1
+102;Capital;PA1I1
+103;Socios por desembolsos no exigidos;PA1I2-
+1030;Socios por desembolsos no exigidos, capital social;PA1I2-
+1034;Socios por desembolsos no exigidos, capital pendientes de inscripción;PA1I2-
+104;Socios por aportaciones no dinerarias pendientes;PA1I2-
+1040;Socios por aportaciones no dinerarias pendientes, capital social;PA1I2-
+1044;Socios por aportaciones no dinerarias pendientes, capital pendientes de inscripción;PA1I2-
+108;Acciones o participaciones propias en situaciones especiales;PA1IV-
+109;Acciones o participaciones propias para reducción de capital;PA1IV-
+11;RESERVAS;PAIII
+110;Prima de emisión o asunción;PA1II
+112;Reserva legal;PA1III
+113;Reservas voluntarias;PA1III
+114;Reservas especiales;PA1III
+1140;Reservas para acciones o participaciones de la sociedad dominante;PA1III
+1141;Reservas estatutarias;PA1III
+1142;Reserva por capital amortizado;PA1III
+1144;Reservas por acciones propias aceptadas en garantía;PA1III
+118;Aportaciones de socios o propietarios;PA1VI
+119;Diferencias por ajuste del capital a euros;PA1III
+12;RESULTADOS PENDIENTES DE APLICACIÓN;PA1V
+120;Remanente;PA1V
+121;Resultados negativos de ejercicios anteriores;PA1V-
+129;Resultados del ejercicio;PA1VII
+13;SUBVENCIONES, DONACIONES, LEGADOS Y OTROS AJUSTES EN PATRIMONIO NETO;PA2
+130;Subvenciones oficiales de capital;PA2
+131;Donaciones y legados de capital;PA2
+132;Otras subvenciones, donaciones y legados;PA2
+137;Ingresos fiscales a distribuir en varios ejercicios;
+1370;Ingresos fiscales por diferencias permanentes a distribuir en varios ejercicios;
+1371;Ingresos fiscales por deducciones y bonificaciones a distribuir en varios ejercicios;
+14;PROVISIONES;PBI
+141;Provisión para impuestos;PBI
+142;Provisión para otras responsabilidades;PBI
+143;Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado;PBI
+145;Provisión para actuaciones medioambientales;PBI
+15;DEUDAS A LARGO PLAZO CON CARACTERÍSTICAS ESPECIALES;
+150;Acciones o participaciones a largo plazo consideradas como pasivos financieros;
+153;Desembolsos no exigidos por acciones o participaciones consideradas como pasivos financieros;
+1533;Desembolsos no exigidos, empresas del grupo;
+1534;Desembolsos no exigidos, empresas asociadas;
+1535;Desembolsos no exigidos, otras partes vinculadas;
+1536;Otros desembolsos no exigidos;
+154;Aportaciones no dinerarias pendientes por acciones o participaciones consideradas como pasivos financieros;
+1543;Aportaciones no dinerarias pendientes, empresas del grupo;
+1544;Aportaciones no dinerarias pendientes, empresas asociadas;
+1545;Aportaciones no dinerarias pendientes, otras partes vinculadas;
+1546;Otras aportaciones no dinerarias pendientes;
+16;DEUDAS A LARGO PLAZO CON PARTES VINCULADAS;PB
+160;Deudas a largo plazo con entidades de crédito vinculadas;PBIII
+1603;Deudas a largo plazo con entidades de crédito, empresas del grupo;PBIII
+1604;Deudas a largo plazo con entidades de crédito, empresas asociadas;PBIII
+1605;Deudas a largo plazo con otras entidades de crédito vinculadas;PBII1
+161;Proveedores de inmovilizado a largo plazo, partes vinculadas;PB
+1613;Proveedores de inmovilizado a largo plazo, empresas del grupo;PBIII
+1614;Proveedores de inmovilizado a largo plazo, empresas asociadas;PBIII
+1615;Proveedores de inmovilizado a largo plazo, otras partes vinculadas;PBII3
+162;Acreedores por arrendamiento financiero a largo plazo, partes vinculadas;PB
+1623;Acreedores por arrendamiento financiero a largo plazo, empresas del grupo;PBIII
+1624;Acreedores por arrendamiento financiero a largo plazo, empresas asociadas;PBIII
+1625;Acreedores por arrendamiento financiero a largo plazo, otras partes vinculadas;PBII2
+163;Otras deudas a largo plazo con partes vinculadas;PBIII
+1633;Otras deudas a largo plazo, empresas del grupo;PBIII
+1634;Otras deudas a largo plazo, empresas asociadas;PBIII
+1635;Otras deudas a largo plazo, con otras partes vinculadas;PBII3
+17;DEUDAS A LARGO PLAZO POR PRÉSTAMOS RECIBIDOS, EMPRÉSTITOS Y OTROS CONCEPTOS;PBII
+170;Deudas a largo plazo con entidades de crédito;PBII1
+171;Deudas a largo plazo;PBII3
+172;Deudas a largo plazo transformables en subvenciones, donaciones y legados;PBII3
+173;Proveedores de inmovilizado a largo plazo;PBII3
+174;Acreedores por arrendamiento financiero a largo plazo;PBII2
+175;Efectos a pagar a largo plazo;PBII3
+176;Pasivos por derivados financieros a largo plazo;PBII3
+177;Obligaciones y bonos;PBII3
+179;Deudas representadas en otros valores negociables;PBII3
+18;PASIVOS POR FIANZAS, GARANTÍAS Y OTROS CONCEPTOS A LARGO PLAZO;PBII3
+180;Fianzas recibidas a largo plazo;PBII3
+181;Anticipos recibidos por ventas o prestaciones de servicios a largo plazo;PBV
+185;Depósitos recibidos a largo plazo;PBII3
+19;SITUACIONES TRANSITORIAS DE FINANCIACIÓN;
+190;Acciones o participaciones emitidas;
+192;Suscriptores de acciones;
+194;Capital emitido pendiente de inscripción;
+195;Acciones o participaciones emitidas consideradas como pasivos financieros; 
+197;Suscriptores de acciones consideradas como pasivos financieros; 
+199;Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción;
+2;INMOVILIZADO;
+20;INMOVILIZACIONES INTANGIBLES;AAI
+200;Investigación;AAI
+201;Desarrollo;AAI
+202;Concesiones administrativas;AAI
+203;Propiedad industrial;AAI
+205;Derechos de traspaso;AAI
+206;Aplicaciones informáticas;AAI
+209;Anticipos para inmovilizaciones intangibles;AAI
+21;INMOVILIZACIONES MATERIALES;AAII
+210;Terrenos y bienes naturales;AAII
+211;Construcciones;AAII
+212;Instalaciones técnicas;AAII
+213;Maquinaria;AAII
+214;Utillaje;AAII
+215;Otras instalaciones;AAII
+216;Mobiliario;AAII
+217;Equipos para procesos de información;AAII
+218;Elementos de transporte;AAII
+219;Otro inmovilizado material;AAII
+22;INVERSIONES INMOBILIARIAS;AAIII
+220;Inversiones en terrenos y bienes naturales;AAIII
+221;Inversiones en construcciones;AAIII
+23;INMOVILIZACIONES MATERIALES EN CURSO;AAII
+230;Adaptación de terrenos y bienes naturales;AAII
+231;Construcciones en curso;AAII
+232;Instalaciones técnicas en montaje;AAII
+233;Maquinaria en montaje;AAII
+237;Equipos para procesos de información en montaje;AAII
+239;Anticipos para inmovilizaciones materiales;AAII
+24;INVERSIONES FINANCIERAS A LARGO PLAZO EN PARTES VINCULADAS;AA
+240;Participaciones a largo plazo en partes vinculadas;AA
+2403;Participaciones a largo plazo en empresas del grupo;AAIV
+2404;Participaciones a largo plazo en empresas asociadas;AAIV
+2405;Participaciones a largo plazo en otras partes vinculadas;AAV
+241;Valores representativos de deuda a largo plazo de partes vinculadas;AA
+2413;Valores representativos de deuda a largo plazo de empresas del grupo;AAIV
+2414;Valores representativos de deuda a largo plazo de empresas asociadas;AAIV
+2415;Valores representativos de deuda a largo plazo de otras partes vinculadas;AAV
+242;Créditos a largo plazo a partes vinculadas;AA
+2423;Créditos a largo plazo a empresas del grupo;AAIV
+2424;Créditos a largo plazo a empresas asociadas;AAIV
+2425;Créditos a largo plazo a otras partes vinculadas;AAV
+249;Desembolsos pendientes sobre participaciones a largo plazo en partes vinculadas;AA-
+2493;Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo;AAIV-
+2494;Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas;AAIV-
+2495;Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas;AAV-
+25;OTRAS INVERSIONES FINANCIERAS A LARGO PLAZO;AAV
+250;Inversiones financieras a largo plazo en instrumentos de patrimonio;AAV
+251;Valores representativos de deuda a largo plazo;AAV
+252;Créditos a largo plazo;AAV
+253;Créditos a largo plazo por enajenación de inmovilizado;AAV
+254;Créditos a largo plazo al personal;AAV
+255;Activos por derivados financieros a largo plazo;AAV
+258;Imposiciones a largo plazo;AAV
+259;Desembolsos pendientes sobre participaciones en el patrimonio neto a largo plazo;AAV-
+26;FIANZAS Y DEPÓSITOS CONSTITUIDOS A LARGO PLAZO;AAV
+260;Fianzas constituidas a largo plazo;AAV
+265;Depósitos constituidos a largo plazo;AAV
+28;AMORTIZACIÓN ACUMULADA DEL INMOVILIZADO;AA-
+280;Amortización acumulada del inmovilizado intangible;AAI-
+2800;Amortización acumulada de investigación;AAI-
+2801;Amortización acumulada de desarrollo;AAI-
+2802;Amortización acumulada de concesiones administrativas;AAI-
+2803;Amortización acumulada de propiedad industrial;AAI-
+2805;Amortización acumulada de derechos de traspaso;AAI-
+2806;Amortización acumulada de aplicaciones informáticas;AAI-
+281;Amortización acumulada del inmovilizado material;AAII-
+2811;Amortización acumulada de construcciones;AAII-
+2812;Amortización acumulada de instalaciones técnicas;AAII-
+2813;Amortización acumulada de maquinaria;AAII-
+2814;Amortización acumulada de utillaje;AAII-
+2815;Amortización acumulada de otras instalaciones;AAII-
+2816;Amortización acumulada de mobiliario;AAII-
+2817;Amortización acumulada de equipos para procesos de información;AAII-
+2818;Amortización acumulada de elementos de transporte;AAII-
+2819;Amortización acumulada de otro inmovilizado material;AAII-
+282;Amortización acumulada de las inversiones inmobiliarias;AAIII-
+29;DETERIORO DE VALOR DE ACTIVOS NO CORRIENTES;AA-
+290;Deterioro de valor del inmovilizado intangible;AAI-
+2900;Deterioro de valor de investigación;AAI-
+2901;Deterioro de valor de desarrollo;AAI-
+2902;Deterioro de valor de concesiones administrativas;AAI-
+2903;Deterioro de valor de propiedad industrial;AAI-
+2905;Deterioro de valor de derechos de traspaso;AAI-
+2906;Deterioro de valor de aplicaciones informáticas;AAI-
+291;Deterioro de valor del inmovilizado material;AAII-
+2910;Deterioro de valor de terrenos y bienes naturales;AAII-
+2911;Deterioro de valor de construcciones;AAII-
+2912;Deterioro de valor de instalaciones técnicas;AAII-
+2913;Deterioro de valor de maquinaria;AAII-
+2914;Deterioro de valor de utillaje;AAII-
+2915;Deterioro de valor de otras instalaciones;AAII-
+2916;Deterioro de valor de mobiliario;AAII-
+2917;Deterioro de valor de equipos para procesos de información;AAII-
+2918;Deterioro de valor de elementos de transporte;AAII-
+2919;Deterioro de valor de otro inmovilizado material;AAII-
+292;Deterioro de valor de las inversiones inmobiliarias;AAIII-
+2920;Deterioro de valor de los terrenos y bienes naturales;AAIII-
+2921;Deterioro de valor de construcciones;AAIII-
+293;Deterioro de valor de participaciones a largo plazo en partes vinculadas;AA-
+2933;Deterioro de valor de participaciones a largo plazo en empresas del grupo;AAIV-
+2934;Deterioro de valor de participaciones a largo plazo en empresas asociadas;AAIV-
+2935;Deterioro de valor de participaciones a largo plazo en otras partes vinculadas;AAIV-
+294;Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas;AA-
+2943;Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo;AAIV-
+2944;Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas;AAIV-
+2945;Deterioro de valor de valores representativos de deuda a largo plazo de otras partes vinculadas;AAV-
+295;Deterioro de valor de créditos a largo plazo a partes vinculadas;AA-
+2953;Deterioro de valor de créditos a largo plazo a empresas del grupo;AAIV-
+2954;Deterioro de valor de créditos a largo plazo a empresas asociadas;AAIV-
+2955;Deterioro de valor de créditos a largo plazo a otras partes vinculadas;AAV-
+296;Deterioro de valor de participaciones en el patrimonio neto a largo plazo;AAV-
+297;Deterioro de valor de valores representativos de deuda a largo plazo;AAV-
+298;Deterioro de valor de créditos a largo plazo;AAV-
+3;EXISTENCIAS;
+30;COMERCIALES;ABI
+300;Mercaderías A;ABI
+301;Mercaderías B;ABI
+31;MATERIAS PRIMAS;ABI
+310;Materias primas A;ABI
+311;Materias primas B;ABI
+32;OTROS APROVISIONAMIENTOS;ABI
+320;Elementos y conjuntos incorporables;ABI
+321;Combustibles;ABI
+322;Repuestos;ABI
+325;Materiales diversos;ABI
+326;Embalajes;ABI
+327;Envases;ABI
+328;Material de oficina;ABI
+33;PRODUCTOS EN CURSO;ABI
+330;Productos en curso A;ABI
+331;Productos en curso B;ABI
+34;PRODUCTOS SEMITERMINADOS;ABI
+340;Productos semiterminados A;ABI
+341;Productos semiterminados B;ABI
+35;PRODUCTOS TERMINADOS;ABI
+350;Productos terminados A;ABI
+351;Productos terminados B;ABI
+36;SUBPRODUCTOS, RESIDUOS Y MATERIALES RECUPERADOS;ABI
+360;Subproductos A;ABI
+361;Subproductos B;ABI
+365;Residuos A;ABI
+366;Residuos B;ABI
+368;Materiales recuperados A;ABI
+369;Materiales recuperados B;ABI
+39;DETERIORO DE VALOR DE LAS EXISTENCIAS;ABI-
+390;Deterioro de valor de las mercaderías;ABI-
+391;Deterioro de valor de las materias primas;ABI-
+392;Deterioro de valor de otros aprovisionamientos;ABI-
+393;Deterioro de valor de los productos en curso;ABI-
+394;Deterioro de valor de los productos semiterminados;ABI-
+395;Deterioro de valor de los productos terminados;ABI-
+396;Deterioro de valor de los subproductos, residuos y materiales recuperados;ABI-
+4;ACREEDORES Y DEUDORES POR OPERACIONES COMERCIALES;
+40;PROVEEDORES;PC
+400;Proveedores;PCIV1
+4000;Proveedores (euros);PCIV1
+4004;Proveedores (moneda extranjera);PCIV1
+4009;Proveedores, facturas pendientes de recibir o de formalizar;PCIV1
+401;Proveedores, efectos comerciales a pagar;PCIV1
+403;Proveedores, empresas del grupo;PCIV1
+4030;Proveedores, empresas del grupo (euros);PCIV1
+4031;Efectos comerciales a pagar, empresas del grupo;PCIV1
+4034;Proveedores, empresas del grupo (moneda extranjera);PCIV1
+4036;Envases y embalajes a devolver a proveedores, empresas del grupo;PCIV1
+4039;Proveedores, empresas del grupo, facturas pendientes de recibir o de formalizar;PCIV1
+404;Proveedores, empresas asociadas;PCIV1
+405;Proveedores, otras partes vinculadas;PCIV1
+406;Envases y embalajes a devolver a proveedores;PCIV1-
+407;Anticipos a proveedores;ABI
+41;ACREEDORES VARIOS;PCIV2
+410;Acreedores por prestaciones de servicios;PCIV2
+4100;Acreedores por prestaciones de servicios (euros);PCIV2
+4104;Acreedores por prestaciones de servicios, (moneda extranjera);PCIV2
+4109;Acreedores por prestaciones de servicios, facturas pendientes de recibir o de formalizar;PCIV2
+411;Acreedores, efectos comerciales a pagar;PCIV2
+419;Acreedores por operaciones en común;PCIV2
+43;CLIENTES;ABII1
+430;Clientes;ABII1
+4300;Clientes (euros);ABII1
+4304;Clientes, (moneda extranjera);ABII1
+4309;Clientes, facturas pendientes de formalizar;ABII1
+431;Clientes, efectos comerciales a cobrar;ABII1
+4310;Efectos comerciales en cartera;ABII1
+4311;Efectos comerciales descontados;ABII1
+4312;Efectos comerciales en gestión de cobro;ABII1
+4315;Efectos comerciales impagados;ABII1
+432;Clientes, operaciones de «factoring»;ABII1
+433;Clientes, empresas del grupo;ABII1
+4330;Clientes empresas del grupo (euros);ABII1
+4331;Efectos comerciales a cobrar, empresas del grupo;ABII1
+4332;Clientes empresas del grupo, operaciones de «factoring»;ABII1
+4334;Clientes empresas del grupo, (moneda extranjera);ABII1
+4336;Clientes empresas del grupo de dudoso cobro;ABII1
+4337;Envases y embalajes a devolver a clientes, empresas del grupo;ABII1
+4339;Clientes empresas del grupo, facturas pendientes de formalizar;ABII1
+434;Clientes, empresas asociadas;ABII1
+435;Clientes, otras partes vinculadas;ABII1
+436;Clientes de dudoso cobro;ABII1
+437;Envases y embalajes a devolver por clientes;ABII1-
+438;Anticipos de clientes;PCIV2
+44;DEUDORES VARIOS;ABII3
+440;Deudores;ABII3
+4400;Deudores (euros);ABII3
+4404;Deudores (moneda extranjera);ABII3
+4409;Deudores, facturas pendientes de formalizar;ABII3
+441;Deudores, efectos comerciales a cobrar;ABII3
+4410;Deudores, efectos comerciales en cartera;ABII3
+4411;Deudores, efectos comerciales descontados;ABII3
+4412;Deudores, efectos comerciales en gestión de cobro;ABII3
+4415;Deudores, efectos comerciales impagados;ABII3
+446;Deudores de dudoso cobro;ABII3
+449;Deudores por operaciones en común;ABII3
+46;PERSONAL;ABII3
+460;Anticipos de remuneraciones;ABII3
+465;Remuneraciones pendientes de pago;PCIV2
+47;ADMINISTRACIONES PÚBLICAS;
+470;Hacienda Pública, deudora por diversos conceptos;ABII3
+4700;Hacienda Pública, deudora por IVA;ABII3
+4708;Hacienda Pública, deudora por subvenciones concedidas;ABII3
+4709;Hacienda Pública, deudora por devolución de impuestos;ABII3
+471;Organismos de la Seguridad Social, deudores;ABII3
+472;Hacienda Pública, IVA soportado;ABII3
+473;Hacienda Pública, retenciones y pagos a cuenta;ABII3
+474;Activos por impuesto diferido;AAVI
+4740;Activos por diferencias temporarias deducibles;AAVI
+4742;Derechos por deducciones y bonificaciones pendientes de aplicar;AAVI
+4745;Crédito por pérdidas a compensar del ejercicio;AAVI
+475;Hacienda Pública, acreedora por conceptos fiscales;PCIV2
+4750;Hacienda Pública, acreedora por IVA;PCIV2
+4751;Hacienda Pública, acreedora por retenciones practicadas;PCIV2
+4752;Hacienda Pública, acreedora por impuesto sobre sociedades;PCIV2
+4758;Hacienda Pública, acreedora por subvenciones a reintegrar;PCIV2
+476;Organismos de la Seguridad Social, acreedores;PCIV2
+477;Hacienda Pública, IVA repercutido;PCIV2
+479;Pasivos por diferencias temporarias imponibles;PBIV
+48;AJUSTES POR PERIODIFICACIÓN;
+480;Gastos anticipados;ABV
+485;Ingresos anticipados;PCV
+49;DETERIORO DE VALOR DE CRÉDITOS COMERCIALES Y PROVISIONES A CORTO PLAZO;
+490;Deterioro de valor de créditos por operaciones comerciales;ABII1-
+493;Deterioro de valor de créditos por operaciones comerciales con partes vinculadas;ABII1-
+4933;Deterioro de valor de créditos por operaciones comerciales con empresas del grupo;ABII1-
+4934;Deterioro de valor de créditos por operaciones comerciales con empresas asociadas;ABII1-
+4935;Deterioro de valor de créditos por operaciones comerciales con otras partes vinculadas;ABII1-
+499;Provisiones para operaciones comerciales;PCI
+4994;Provisión por contratos onerosos;PCI
+4999;Provisión para otras operaciones comerciales;PCI
+5;CUENTAS FINANCIERAS;
+50;EMPRÉSTITOS, DEUDAS CON CARÁCTERÍSTICAS ESPECIALES Y OTRAS EMISIONES ANÁLOGAS A CORTO PLAZO;
+500;Obligaciones y bonos a corto plazo;PCII3
+502;Acciones o participaciones a corto plazo consideradas como pasivos financieros;
+505;Deudas representadas en otros valores negociables a corto plazo;PCII3
+506;Intereses a corto plazo de empréstitos y otras emisiones análogas;PCII3
+507;Dividendos de acciones o participaciones consideradas como pasivos financieros;
+509;Valores negociables amortizados;PCII3
+5090;Obligaciones y bonos amortizados;PCII3
+5095;Otros valores negociables amortizados;PCII3
+51;DEUDAS A CORTO PLAZO CON PARTES VINCULADAS;PC
+510;Deudas a corto plazo con entidades de crédito vinculadas;PC
+5103;Deudas a corto plazo con entidades de crédito, empresas del grupo;PCIII
+5104;Deudas a corto plazo con entidades de crédito, empresas asociadas;PCIII
+5105;Deudas a corto plazo con otras entidades de crédito vinculadas;PCII1
+511;Proveedores de inmovilizado a corto plazo, partes vinculadas;PC
+5113;Proveedores de inmovilizado a corto plazo, empresas del grupo;PCIII
+5114;Proveedores de inmovilizado a corto plazo, empresas asociadas;PCIII
+5115;Proveedores de inmovilizado a corto plazo, otras partes vinculadas;PCII3
+512;Acreedores por arrendamiento financiero a corto plazo, partes vinculadas;PC 
+5123;Acreedores por arrendamiento financiero a corto plazo, empresas del grupo;PCIII
+5124;Acreedores por arrendamiento financiero a corto plazo, empresas asociadas; PCIII
+5125;Acreedores por arrendamiento financiero a corto plazo, otras partes vinculadas;PCII2
+513;Otras deudas a corto plazo con partes vinculadas;PC
+5133;Otras deudas a corto plazo con empresas del grupo;PCIII
+5134;Otras deudas a corto plazo con empresas asociadas;PCIII
+5135;Otras deudas a corto plazo con otras partes vinculadas;PCII3
+514;Intereses a corto plazo de deudas con partes vinculadas;PC
+5143;Intereses a corto plazo de deudas, empresas del grupo;PCIII
+5144;Intereses a corto plazo de deudas, empresas asociadas;PCIII
+5145;Intereses a corto plazo de deudas, otras partes vinculadas;PCII3
+52;DEUDAS A CORTO PLAZO POR PRÉSTAMOS RECIBIDOS Y OTROS CONCEPTOS;PC
+520;Deudas a corto plazo con entidades de crédito;PCII1
+5200;Préstamos a corto plazo de entidades de crédito;PCII1
+5201;Deudas a corto plazo por crédito dispuesto;PCII1
+5208;Deudas por efectos descontados;PCII1
+5209;Deudas por operaciones de «factoring»;PCII1
+521;Deudas a corto plazo;PCII3
+522;Deudas a corto plazo transformables en subvenciones, donaciones y legados;PCII3
+523;Proveedores de inmovilizado a corto plazo;PCII3
+524;Acreedores por arrendamiento financiero a corto plazo;PCII2
+525;Efectos a pagar a corto plazo;PCII3
+526;Dividendo activo a pagar;PCII3
+527;Intereses a corto plazo de deudas con entidades de crédito;PCII1
+528;Intereses a corto plazo de deudas;PCII3
+529;Provisiones a corto plazo;PCI
+5291;Provisión a corto plazo para impuestos;PCI
+5292;Provisiones a corto plazo para otras responsabilidades;PCI
+5293;Provisiones a corto plazo por desmantelamiento, retiro o rehabilitación del inmovilizado;PCI
+5295;Provisiones a corto plazo para actuaciones medioambientales;PCI
+53;INVERSIONES FINANCIERAS A CORTO PLAZO EN PARTES VINCULADAS;AB
+530;Participaciones a corto plazo en partes vinculadas;AB
+5303;Participaciones a corto plazo, en empresas del grupo;ABIII
+5304;Participaciones a corto plazo, en empresas asociadas;ABIII
+5305;Participaciones a corto plazo, en otras partes vinculadas;ABIV
+531;Valores representativos de deuda a corto plazo de partes vinculadas;AB
+5313;Valores representativos de deuda a corto plazo de empresas del grupo;ABIII
+5314;Valores representativos de deuda a corto plazo de empresas asociadas;ABIII
+5315;Valores representativos de deuda a corto plazo de otras partes vinculadas;ABIV
+532;Créditos a corto plazo a partes vinculadas;AB
+5323;Créditos a corto plazo a empresas del grupo;ABIII
+5324;Créditos a corto plazo a empresas asociadas;ABIII
+5325;Créditos a corto plazo a otras partes vinculadas;ABIV
+533;Intereses a corto plazo de valores representativos de deudas en partes vinculadas;AB
+5333;Intereses a corto plazo de valores representativos de deudas en empresas del grupo;ABIII
+5334;Intereses a corto plazo de valores representativos de deudas en empresas asociadas;ABIII
+5335;Intereses a corto plazo de valores representativos de deudas en otras partes vinculadas;ABIV
+534;Intereses a corto plazo de créditos a partes vinculadas;AB
+5343;Intereses a corto plazo de inversiones créditos a empresas del grupo;ABIII
+5344;Intereses a corto plazo de inversiones créditos a empresas asociadas;ABIII
+5345;Intereses a corto plazo de inversiones créditos a en otras partes vinculadas;ABIV
+535;Dividendo a cobrar de inversiones financieras en partes vinculadas;AB
+5353;Dividendo a cobrar de inversiones financieras en empresas del grupo;ABIII
+5354;Dividendo a cobrar de inversiones financieras en empresas asociadas;ABIII
+5355;Dividendo a cobrar de inversiones financieras en otras partes vinculadas;ABIV
+539;Desembolsos pendientes sobre participaciones a corto plazo de partes vinculadas;AB-
+5393;Desembolsos pendientes sobre participaciones a largo plazo en empresas del grupo;ABIII-
+5394;Desembolsos pendientes sobre participaciones a largo plazo en empresas asociadas;ABIII-
+5395;Desembolsos pendientes sobre participaciones a largo plazo en otras partes vinculadas;ABIV-
+54;OTRAS INVERSIONES FINANCIERAS A CORTO PLAZO;AB
+540;Inversiones financieras a corto plazo en instrumentos de patrimonio;ABIV
+541;Valores representativos de deuda a corto plazo;ABIV
+542;Créditos a corto plazo;ABIV
+543;Créditos a corto plazo por enajenación de inmovilizado;ABIV
+544;Créditos a corto plazo al personal;ABII3
+545;Dividendo a cobrar;ABIV
+546;Intereses a corto plazo de valores representativos de deuda;ABIV
+547;Intereses a corto plazo de créditos;
+548;Imposiciones a corto plazo;ABIV
+549;Desembolsos pendientes sobre participaciones en el patrimonio neto a corto plazo;ABIV-
+55;OTRAS CUENTAS NO BANCARIAS;
+550;Titular de la explotación;
+551;Cuenta corriente con socios y administradores;ESP1
+552;Cuenta corriente con otras personas y entidades vinculadas;ESP1
+5523;Cuenta corriente con empresas del grupo;ESP2
+5524;Cuenta corriente con empresas asociadas;ESP2
+5525;Cuenta corriente con otras partes vinculadas;ESP1
+554;Cuenta corriente con uniones temporales de empresas y comunidades de bienes;ESP2
+555;Partidas pendientes de aplicación;PCII3
+556;Desembolsos exigidos sobre participaciones en el patrimonio neto;
+5563;Desembolsos exigidos sobre participaciones, empresas del grupo;PCIII
+5564;Desembolsos exigidos sobre participaciones, empresas asociadas;PCIII
+5565;Desembolsos exigidos sobre participaciones, otras partes vinculadas;PCII3
+5566;Desembolsos exigidos sobre participaciones de otras empresas;PCII3
+557;Dividendo activo a cuenta;PA1VIII-
+558;Socios por desembolsos exigidos;ABII2
+5580;Socios por desembolsos exigidos sobre acciones o participaciones ordinarias; ABII2
+5585;Socios por desembolsos exigidos sobre acciones o participaciones consideradas como pasivos financieros;
+559;Derivados financieros a corto plazo;
+5590;Activos por derivados financieros a corto plazo;ABIV
+5591;Pasivos por derivados financieros a corto plazo;PCII3
+56;FIANZAS Y DEPÓSITOS RECIBIDOS Y CONSTITUIDOS A CORTO PLAZO, Y AJUSTES POR PERIODIFICACIÓN;
+560;Fianzas recibidas a corto plazo;PCII3
+561;Depósitos recibidos a corto plazo;PCII3
+565;Fianzas constituidas a corto plazo;ABIV
+566;Depósitos constituidos a corto plazo;ABIV
+567;Intereses pagados por anticipado;
+568;Intereses cobrados por anticipado;
+57;TESORERÍA;ABVI
+570;Caja, euros;ABVI
+571;Caja, moneda extranjera;ABVI
+572;Bancos e instituciones de crédito c/c vista, euros;ABVI
+573;Bancos e instituciones de crédito c/c vista, moneda extranjera;ABVI
+574;Bancos e instituciones de crédito, cuentas de ahorro, euros;ABVI
+575;Bancos e instituciones de crédito, cuentas de ahorro, moneda extranjera;ABVI
+576;Inversiones a corto plazo de gran liquidez;ABVI
+59;DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO;AB-
+593;Deterioro de valor de participaciones a corto plazo en partes vinculadas;AB-
+5933;Deterioro de valor de participaciones a corto plazo en empresas del grupo;ABIII-
+5934;Deterioro de valor de participaciones a corto plazo en empresas asociadas;ABIII-
+5935;Deterioro de valor de participaciones a corto plazo en otras partes vinculadas;ABIII-
+594;Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas;AB-
+5943;Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo;ABIII-
+5944;Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas;ABIII-
+5945;Deterioro de valor de valores representativos de deuda a corto plazo de otras partes vinculadas;ABIV-
+595;Deterioro de valor de créditos a corto plazo a partes vinculadas;AB-
+5953;Deterioro de valor de créditos a corto plazo a empresas del grupo;ABIII-
+5954;Deterioro de valor de créditos a corto plazo a empresas asociadas;ABIII-
+5955;Deterioro de valor de créditos a corto plazo a otras partes vinculadas;ABIV-
+596;Deterioro de valor de participaciones a corto plazo;ABIV-
+597;Deterioro de valor de valores representativos de deuda a corto plazo;ABIV-
+598;Deterioro de valor de créditos a corto plazo;ABIV-
+6;COMPRAS Y GASTOS;
+60;COMPRAS;G
+600;Compras de mercaderías;G4-
+601;Compras de materias primas;G4-
+602;Compras de otros aprovisionamientos;G4-
+606;Descuentos sobre compras por pronto pago;G4
+6060;Descuentos sobre compras por pronto pago de mercaderías;G4
+6061;Descuentos sobre compras por pronto pago de materias primas;G4
+6062;Descuentos sobre compras por pronto pago de otros aprovisionamientos;G4
+607;Trabajos realizados por otras empresas;G4-
+608;Devoluciones de compras y operaciones similares;G4
+6080;Devoluciones de compras de mercaderías;G4
+6081;Devoluciones de compras de materias primas;G4
+6082;Devoluciones de compras de otros aprovisionamientos;G4
+609;"Rappels" por compras;G4
+6090;"Rappels" por compras de mercaderías;G4
+6091;"Rappels" por compras de materias primas;G4
+6092;"Rappels" por compras de otros aprovisionamientos;G4
+61;VARIACIÓN DE EXISTENCIAS;G4
+610;Variación de existencias de mercaderías;G4
+611;Variación de existencias de materias primas;G4
+612;Variación de existencias de otros aprovisionamientos;G4
+62;SERVICIOS EXTERIORES;G7-
+620;Gastos en investigación y desarrollo del ejercicio;G7-
+621;Arrendamientos y cánones;G7-
+622;Reparaciones y conservación;G7-
+623;Servicios de profesionales independientes;G7-
+624;Transportes;G7-
+625;Primas de seguros;G7-
+626;Servicios bancarios y similares;G7-
+627;Publicidad, propaganda y relaciones públicas;G7-
+628;Suministros;G7-
+629;Otros servicios;G7-
+63;TRIBUTOS;G
+630;Impuesto sobre beneficios;G17
+6300;Impuesto corriente;G17
+6301;Impuesto diferido;G17
+631;Otros tributos;G7-
+633;Ajustes negativos en la imposición sobre beneficios;G17-
+634;Ajustes negativos en la imposición indirecta;G7-
+6341;Ajustes negativos en IVA de activo corriente;G7-
+6342;Ajustes negativos en IVA de inversiones;G7-
+636;Devolución de impuestos;G7
+638;Ajustes positivos en la imposición sobre beneficios;G17
+639;Ajustes positivos en la imposición indirecta;G7
+6391;Ajustes positivos en IVA de activo corriente;G7
+6392;Ajustes positivos en IVA de inversiones;G7
+64;GASTOS DE PERSONAL;G6-
+640;Sueldos y salarios;G6-
+641;Indemnizaciones;G6-
+642;Seguridad Social a cargo de la empresa;G6-
+649;Otros gastos sociales;G6-
+65;OTROS GASTOS DE GESTIÓN;G7-
+650;Pérdidas de créditos comerciales incobrables;G7-
+651;Resultados de operaciones en común;G7-
+6510;Beneficio transferido (gestor);G7-
+6511;Pérdida soportada (partícipe o asociado no gestor);G7-
+659;Otras pérdidas en gestión corriente;G7-
+66;GASTOS FINANCIEROS;G
+660;Gastos financieros por actualización de provisiones;
+661;Intereses de obligaciones y bonos;G13-
+6610;Intereses de obligaciones y bonos a largo plazo, empresas del grupo;G13-
+6611;Intereses de obligaciones y bonos a largo plazo, empresas asociadas;G13-
+6612;Intereses de obligaciones y bonos a largo plazo, otras partes vinculadas;G13-
+6613;Intereses de obligaciones y bonos a largo plazo, otras empresas;G13-
+6615;Intereses de obligaciones y bonos a corto plazo, empresas del grupo;G13-
+6616;Intereses de obligaciones y bonos a corto plazo, empresas asociadas;G13-
+6617;Intereses de obligaciones y bonos a corto plazo, otras partes vinculadas;G13-
+6618;Intereses de obligaciones y bonos a corto plazo, otras empresas;G13-
+662;Intereses de deudas;G13-
+6620;Intereses de deudas, empresas del grupo;G13-
+6621;Intereses de deudas, empresas asociadas;G13-
+6622;Intereses de deudas, otras partes vinculadas;G13-
+6623;Intereses de deudas con entidades de crédito;G13-
+6624;Intereses de deudas, otras empresas;G13-
+663;Pérdidas por valoración de activos y pasivos financieros por su valor razonable;G14-
+664;Dividendos de acciones o participaciones consideradas como pasivos financieros;G
+6640;Dividendos de pasivos, empresas del grupo;G
+6641;Dividendos de pasivos, empresas asociadas;G
+6642;Dividendos de pasivos, otras partes vinculadas;G
+6643;Dividendos de pasivos, otras empresas;G
+665;Intereses por descuento de efectos y operaciones de «factoring»;G13-
+6650;Intereses por descuento de efectos en entidades de crédito del grupo;G13-
+6651;Intereses por descuento de efectos en entidades de crédito asociadas;G13-
+6652;Intereses por descuento de efectos en otras entidades de crédito vinculadas;G13-
+6653;Intereses por descuento de efectos en otras entidades de crédito;G13-
+6654;Intereses por operaciones de «factoring» con entidades de crédito del grupo; 
+6655;Intereses por operaciones de «factoring» con entidades de crédito asociadas; 
+6656;Intereses por operaciones de «factoring» con otras entidades de crédito vinculadas; 
+6657;Intereses por operaciones de «factoring» con otras entidades de crédito; 
+666;Pérdidas en participaciones y valores representativos de deuda;G16-
+6660;Pérdidas en participaciones y valores representativos de deuda a largo plazo, empresas del grupo;G16-
+6661;Pérdidas en participaciones y valores representativos de deuda a largo plazo, empresas asociadas;G16-
+6662;Pérdidas en participaciones y valores representativos de deuda a largo plazo, otras partes vinculadas;G16-
+6663;Pérdidas en participaciones y valores representativos de deuda a largo plazo, otras empresas;G16-
+6665;Pérdidas en participaciones y valores representativos de deuda a corto plazo, empresas del grupo;G16-
+6666;Pérdidas en participaciones y valores representativos de deuda a corto plazo, empresas asociadas;G16-
+6667;Pérdidas en participaciones y valores representativos de deuda a corto plazo, otras partes vinculadas;G16-
+6668;Pérdidas en participaciones y valores representativos de deuda a corto plazo, de otras empresas;G16-
+667;Pérdidas de créditos no comerciales;G16-
+6670;Pérdidas de créditos a largo plazo, empresas del grupo;G16-
+6671;Pérdidas de créditos a largo plazo, empresas asociadas;G16-
+6672;Pérdidas de créditos a largo plazo, otras partes vinculadas;G16-
+6673;Pérdidas de créditos a largo plazo, otras empresas;G16-
+6675;Pérdidas de créditos a corto plazo, empresas del grupo;G16-
+6676;Pérdidas de créditos a corto plazo, empresas asociadas;G16-
+6677;Pérdidas de créditos a corto plazo, otras partes vinculadas;G16-
+6678;Pérdidas de créditos a corto plazo, de otras empresas;G16-
+668;Diferencias negativas de cambio;G15-
+669;Otros gastos financieros;G13-
+67;PÉRDIDAS PROCEDENTES DE ACTIVOS NO CORRIENTES Y GASTOS EXCEPCIONALES;G
+670;Pérdidas procedentes del inmovilizado intangible;G11-
+671;Pérdidas procedentes del inmovilizado material;G11-
+672;Pérdidas procedentes de las inversiones inmobiliarias;G11-
+673;Pérdidas procedentes de participaciones a largo plazo en partes vinculadas;G16-
+6733;Pérdidas procedentes de participaciones a largo plazo, empresas del grupo;G16-
+6734;Pérdidas procedentes de participaciones a largo plazo, empresas asociadas;G16-
+6735;Pérdidas procedentes de participaciones a largo plazo, otras partes vinculadas;G16-
+675;Pérdidas por operaciones con obligaciones propias;G16-
+678;Gastos excepcionales;
+68;DOTACIONES PARA AMORTIZACIONES;G8-
+680;Amortización del inmovilizado intangible;G8-
+681;Amortización del inmovilizado material;G8-
+682;Amortización de las inversiones inmobiliarias;G8-
+69;PÉRDIDAS POR DETERIODO Y OTRAS DOTACIONES;G
+690;Pérdidas por deterioro del inmovilizado intangible;G11-
+691;Pérdidas por deterioro del inmovilizado material;G11-
+692;Pérdidas por deterioro de las inversiones inmobiliarias;G11-
+693;Pérdidas por deterioro de existencias;G4-
+6930;Pérdidas por deterioro de productos terminados y en curso de fabricación;G4-
+6931;Pérdidas por deterioro de mercaderías;G4-
+6932;Pérdidas por deterioro de materias primas;G4-
+6933;Pérdidas por deterioro de otros aprovisionamientos;G4-
+694;Pérdidas por deterioro de créditos comerciales;G7-
+695;Dotación a la provisión para operaciones comerciales;G7-
+6954;Dotación a la provisión por contratos onerosos;G7-
+6959;Dotación a la provisión por otras operaciones comerciales;G7-
+696;Pérdidas por deterioro de participaciones y valores representativos de deuda a largo plazo;G16-
+6960;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo;G16-
+6961;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas;G16-
+6962;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras partes vinculadas;G16-
+6963;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras empresas;G16-
+6965;Pérdidas por deterioro en valores representativos de deuda a largo plazo, empresas del grupo;G16-
+6966;Pérdidas por deterioro en valores representativos de deuda a largo plazo, empresas asociadas;G16-
+6967;Pérdidas por deterioro en valores representativos de deuda a largo plazo, otras partes vinculadas;G16-
+6968;Pérdidas por deterioro en valores representativos de deuda a largo plazo, de otras empresas;G16-
+697;Pérdidas por deterioro de créditos a largo plazo;G16-
+6970;Pérdidas por deterioro de créditos a largo plazo, empresas del grupo;G16-
+6971;Pérdidas por deterioro de créditos a largo plazo, empresas asociadas;G16-
+6972;Pérdidas por deterioro de créditos a largo plazo, otras partes vinculadas;G16-
+6973;Pérdidas por deterioro de créditos a largo plazo, otras empresas;G16-
+698;Pérdidas por deterioro de participaciones y valores representativos de deuda a corto plazo;G16-
+6980;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo;G16-
+6981;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas;G16-
+6982;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, otras partes vinculadas;G16-
+6983;Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, otras empresas;G16-
+6985;Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas del grupo;G16-
+6986;Pérdidas por deterioro en valores representativos de deuda a corto plazo, empresas asociadas;G16-
+6987;Pérdidas por deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas;G16-
+6988;Pérdidas por deterioro en valores representativos de deuda a corto plazo, de otras empresas;G16-
+699;Pérdidas por deterioro de créditos a corto plazo;G16-
+6990;Pérdidas por deterioro de créditos a largo plazo, empresas del grupo;G16-
+6991;Pérdidas por deterioro de créditos a largo plazo, empresas asociadas;G16-
+6992;Pérdidas por deterioro de créditos a largo plazo, otras partes vinculadas;G16-
+6993;Pérdidas por deterioro de créditos a largo plazo, otras empresas;G16-
+7;VENTAS E INGRESOS;
+70;VENTAS DE MERCADERÍAS, DE PRODUCCIÓN PROPIA, DE SERVICIOS, ETC;G1
+700;Ventas de mercaderías;G1
+701;Ventas de productos terminados;G1
+702;Ventas de productos semiterminados;G1
+703;Ventas de subproductos y residuos;G1
+704;Ventas de envases y embalajes;G1
+705;Prestaciones de servicios;G1
+706;Descuentos sobre ventas por pronto pago;G1-
+7060;Descuentos sobre ventas por pronto pago de mercaderías;G1-
+7061;Descuentos sobre ventas por pronto pago de productos terminados;G1-
+7062;Descuentos sobre ventas por pronto pago de productos semiterminados;G1-
+7063;Descuentos sobre ventas por pronto pago de subproductos y residuos;G1-
+7064;Descuentos sobre ventas por pronto pago de envases y embalajes;G1-
+708;Devoluciones de ventas y operaciones similares;G1-
+7080;Devoluciones de ventas de mercaderías;G1-
+7081;Devoluciones de ventas de productos terminados;G1-
+7082;Devoluciones de ventas de productos semiterminados;G1-
+7083;Devoluciones de ventas de subproductos y residuos;G1-
+7084;Devoluciones de ventas de envases y embalajes;G1-
+709;"Rappels" sobre ventas;G1-
+7090;"Rappels" sobre ventas de mercaderías;G1-
+7091;"Rappels" sobre ventas de productos terminados;G1-
+7092;"Rappels" sobre ventas de productos semiterminados;G1-
+7093;"Rappels" sobre ventas de subproductos y residuos;G1-
+7094;"Rappels" sobre ventas de envases y embalajes;G1-
+71;VARIACIÓN DE EXISTENCIAS;G2
+710;Variación de existencias de productos en curso;G2
+711;Variación de existencias de productos semiterminados;G2
+712;Variación de existencias de productos terminados;G2
+713;Variación de existencias de subproductos, residuos y materiales recuperados;G2
+73;TRABAJOS REALIZADOS PARA LA EMPRESA;G3
+730;Trabajos realizados para el inmovilizado intangible;G3
+731;Trabajos realizados para el inmovilizado material;G3
+732;Trabajos realizados en inversiones inmobiliarias;G3
+733;Trabajos realizados para el inmovilizado material en curso;G3
+74;SUBVENCIONES, DONACIONES Y LEGADOS;G
+740;Subvenciones, donaciones y legados a la explotación;G5
+746;Subvenciones, donaciones y legados de capital transferidas al resultado del ejercicio;G9
+747;Otras subvenciones, donaciones y legados transferidos al resultado del ejercicio;G5
+75;OTROS INGRESOS DE GESTIÓN;G5
+751;Resultados de operaciones en común;G5
+7510;Pérdida transferida (gestor);G5
+7511;Beneficio atribuido (partícipe o asociado no gestor);G5
+752;Ingresos por arrendamientos;G5
+753;Ingresos de propiedad industrial cedida en explotación;G5
+754;Ingresos por comisiones;G5
+755;Ingresos por servicios al personal;G5
+759;Ingresos por servicios diversos;G5
+76;INGRESOS FINANCIEROS;G
+760;Ingresos de participaciones en instrumentos de patrimonio;G12
+7600;Ingresos de participaciones en instrumentos de patrimonio, empresas del grupo;G12
+7601;Ingresos de participaciones en instrumentos de patrimonio, empresas asociadas;G12
+7602;Ingresos de participaciones en instrumentos de patrimonio, otras partes vinculadas;G12
+7603;Ingresos de participaciones en instrumentos de patrimonio, de otras empresas;G12
+761;Ingresos de valores representativos de deuda;G12
+7610;Ingresos de valores representativos de deuda, empresas del grupo;G12
+7611;Ingresos de valores representativos de deuda, empresas asociadas;G12
+7612;Ingresos de valores representativos de deuda, otras partes vinculadas;G12
+7613;Ingresos de valores representativos de deuda, otras empresas;G12
+762;Ingresos de créditos;G12
+7620;Ingresos de créditos a largo plazo;G12
+76200;Ingresos de créditos a largo plazo, empresas del grupo;G12
+76201;Ingresos de créditos a largo plazo, empresas asociadas;G12
+76202;Ingresos de créditos a largo plazo, otras partes vinculadas;G12
+76203;Ingresos de créditos a largo plazo, otras empresas;G12
+7621;Ingresos de créditos a corto plazo;G12
+76210;Ingresos de créditos a corto plazo, empresas del grupo;G12
+76211;Ingresos de créditos a corto plazo, empresas asociadas;G12
+76212;Ingresos de créditos a corto plazo, otras partes vinculadas;G12
+76213;Ingresos de créditos a corto plazo, otras empresas;G12
+763;Beneficios por valoración de activos y pasivos financieros por su valor razonable;G14
+766;Beneficios en participaciones y valores representativos de deudas;G16
+7660;Beneficios en valores representativos de deudas a largo plazo, empresas del grupo;G16
+7661;Beneficios en valores representativos de deudas a largo plazo, empresas asociadas;G16
+7662;Beneficios en valores representativos de deudas a largo plazo, otras partes vinculadas;G16
+7663;Beneficios en participaciones y valores representativos de deudas a largo plazo, otras empresas;G16
+7665;Beneficios en participaciones y valores representativos de deudas a corto plazo, empresas del grupo;G16
+7666;Beneficios en participaciones y valores representativos de deudas a corto plazo, empresas asociadas;G16
+7667;Beneficios en valores representativos de deudas a corto plazo, otras partes vinculadas;G16
+7668;Beneficios en valores representativos de deudas a corto plazo, de otras empresas;G16
+768;Diferencias positivas de cambio;G15
+769;Otros ingresos financieros;G12
+77;BENEFICIOS PROCEDENTES DE ACTIVOS NO CORRIENTES E INGRESOS EXCEPCIONALES;G
+770;Beneficios procedentes del inmovilizado intangible;G11
+771;Beneficios procedentes del inmovilizado material;G11
+772;Beneficios procedentes de las inversiones inmobiliarias;G11
+773;Beneficios procedentes de participaciones a largo plazo en partes vinculadas;G16
+7733;Beneficios procedentes de participaciones a largo plazo, empresas del grupo;G16
+7734;Beneficios procedentes de participaciones a largo plazo, empresas asociadas;G16
+7735;Beneficios procedentes de participaciones a largo plazo, otras partes vinculadas;G16
+775;Beneficios por operaciones con obligaciones propias;G16
+778;Ingresos excepcionales;
+79;EXCESOS Y APLICACIONES DE PROVISIONES Y DE PÉRDIDAS POR DETERIORO;G
+790;Reversión del deterioro del inmovilizado intangible;G11
+791;Reversión del deterioro del inmovilizado material;G11
+792;Reversión del deterioro de las inversiones inmobiliarias;G11
+793;Reversión del deterioro de existencias;G
+7930;Reversión del deterioro de productos terminados y en curso de fabricación;G2
+7931;Reversión del deterioro de mercaderías;G4
+7932;Reversión del deterioro de materias primas;G4
+7933;Reversión del deterioro de otros aprovisionamientos;G4
+794;Reversión del deterioro de créditos por operaciones comerciales;G7
+795;Exceso de provisiones;G
+7951;Exceso de provisión para impuestos;G10
+7952;Exceso de provisión para otras responsabilidades;G10
+7954;Exceso de provisión para operaciones comerciales;G7
+79544;Exceso de provisión por contratos onerosos;G7
+79549;Exceso de provisión por otras operaciones comerciales;G7
+7955;Exceso de provisión para actuaciones medioambientales;G10
+796;Reversión del deterioro de participaciones y valores representativos de deuda a largo plazo;G16
+7960;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas del grupo;G16
+7961;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, empresas asociadas;G16
+7962;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras partes vinculadas;G16
+7963;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a largo plazo, otras empresas;G16
+7965;Reversión del deterioro de valores representativos de deuda a largo plazo, empresas del grupo;G16
+7966;Reversión del deterioro de valores representativos de deuda a largo plazo, empresas asociadas;G16
+7967;Reversión del deterioro de valores representativos de deuda a largo plazo, otras partes vinculadas;G16
+7968;Reversión del deterioro de valores representativos de deuda a largo plazo, de otras empresas;G16
+797;Reversión del deterioro de créditos a largo plazo;G16
+7970;Reversión del deterioro de créditos a largo plazo, empresas del grupo;G16
+7971;Reversión del deterioro de créditos a largo plazo, empresas asociadas;G16
+7972;Reversión del deterioro de créditos a largo plazo, otras partes vinculadas;G16
+7973;Reversión del deterioro de créditos a largo plazo, otras empresas;G16
+798;Reversión del deterioro de participaciones y valores representativos de deuda a corto plazo;G16
+7980;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas del grupo;G16
+7981;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, empresas asociadas;G16
+7982;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, otras partes vinculadas;G16
+7983;Reversión del deterioro de participaciones en instrumentos de patrimonio neto a corto plazo, otras empresas;G16
+7985;Reversión del deterioro en valores representativos de deuda a corto plazo, empresas del grupo;G16
+7986;Reversión del deterioro en valores representativos de deuda a corto plazo, empresas asociadas;G16
+7987;Reversión del deterioro en valores representativos de deuda a corto plazo, otras partes vinculadas;G16
+7988;Reversión del deterioro en valores representativos de deuda a corto plazo, de otras empresas;G16
+799;Reversión del deterioro de créditos a corto plazo;G16
+7990;Reversión del deterioro de créditos a largo plazo, empresas del grupo;G16
+7991;Reversión del deterioro de créditos a largo plazo, empresas asociadas;G16
+7992;Reversión del deterioro de créditos a largo plazo, otras partes vinculadas;G16
+7993;Reversión del deterioro de créditos a largo plazo, otras empresas;G16

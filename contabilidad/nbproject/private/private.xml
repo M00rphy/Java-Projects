@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/listados/MarcoListadoExistencias.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/contaes/Inicio.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/listados/CVTableModel.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/listados/compraVentaObject.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/listados/ManejadorListados.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/AboutBox.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/contaes/informes/control/ContrapartidasControl.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/internationalization/Mensajes.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/busqueda/Objeto.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/listados/MarcoListadoCV.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/facturacion/view/FacturasJInternalFrame.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/listados/AgrupadoTableModel.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/listados/ListadosJInternalFrame.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/ManejadorFP.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/busqueda/ModeloTabla.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/internationalization/Mensajes.properties</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/TraspasarProductosJDialog.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/listados/GenerarPdf.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/ManejadorListasInicio.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/data/graficos/ManejadorGraficos.java</file>
+            <file>file:/home/super/proyectos/contabilidad/src/almacen2/gui/listados/MarcoListadoAgrupados.java</file>
+        </group>
+    </open-files>
+</project-private>
